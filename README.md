@@ -1,4 +1,4 @@
-# 💸 SpendWise
+# SpendWise
 
 **A personal finance app for Android that turns budgeting from a solo chore into something you can do with friends.**
 
